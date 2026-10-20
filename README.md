@@ -28,10 +28,10 @@
 * 🔐 **High Security:** Built with modern security best practices to protect user credentials.
 * 🎮 **Multiple Gaming Auth Options:** Seamlessly log in using popular gaming platforms:
   
-  * 🟢 **Google Login**
-  * 🔵 **Steam Authentication**
-  * 🟣 **Discord Auth**
-  * ✉️ **Email & Password**
+  *  **Google Login**
+  *  **Steam Authentication**
+  *  **Discord Auth**
+  *  **Email & Password**
     
 * ⚡ **Lightning Fast:** Powered by Next.js App Router for high performance and smooth UI transitions.
 * 🎨 **Gaming Aesthetics:** Sleek, dark-themed interface crafted specifically for gaming projects.
