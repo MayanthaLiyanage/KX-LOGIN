@@ -77,19 +77,19 @@ Open http://localhost:3000 in your browser to view the login portal.
 
 ## 🛠️ Built With
 
-*Next.js - React Framework for Production
-*React - UI Library
-*Tailwind CSS - Styling & Responsive Layouts
+* Next.js - React Framework for Production
+* React - UI Library
+* Tailwind CSS - Styling & Responsive Layouts
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-*Fork the Project
-*Create your Feature Branch (git checkout -b feature/AmazingFeature)
-*Commit your Changes (git commit -m 'Add some AmazingFeature')
-*Push to the Branch (git push origin feature/AmazingFeature)
-*Open a Pull Request
+* Fork the Project
+* Create your Feature Branch (git checkout -b feature/AmazingFeature)
+* Commit your Changes (git commit -m 'Add some AmazingFeature')
+* Push to the Branch (git push origin feature/AmazingFeature)
+* Open a Pull Request
 
 ## 📄 License
 
