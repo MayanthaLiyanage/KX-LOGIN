@@ -9,6 +9,24 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
+---
+
+## 📸 Screenshots & Preview
+
+<div align="center">
+
+### 🌟 Gaming Login Portal Dashboard
+> Sleek, dark-themed security login interface featuring multi-platform authentication.
+
+<img src="YOUR_SCREENSHOT_LINK_HERE.png" alt="Gaming Login Portal Preview" width="800px" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+
+</div>
+
+### 🔑 Authentication Options Overview
+* **Google & Email Login:** Secure standard & Google OAuth login flow.
+* **Steam & Discord Integration:** Direct gaming community login options for gamers.
+
+---
 
 ## ✨ Features
 
@@ -96,6 +114,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Distributed under the MIT License. Free for personal and commercial use.
 
-<img width="1497" height="938" alt="Access grant" src="https://github.com/user-attachments/assets/9ea4db32-a3d7-4db4-b0f4-2006036cf94c" />
-<img width="1476" height="939" alt="Create profile" src="https://github.com/user-attachments/assets/b6cb42bd-ded4-4927-b3c5-e2a3e7e6dafc" />
-<img width="1481" height="940" alt="Sign in page" src="https://github.com/user-attachments/assets/06ccad86-2f70-4339-b18b-7455a5989da7" />
+
