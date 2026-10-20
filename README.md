@@ -16,7 +16,7 @@
   
   * 🟢 **Google Login**
   * 🔵 **Steam Authentication**
-  * 🟣 **Discord OAuth**
+  * 🟣 **Discord Auth**
   * ✉️ **Email & Password**
     
 * ⚡ **Lightning Fast:** Powered by Next.js App Router for high performance and smooth UI transitions.
