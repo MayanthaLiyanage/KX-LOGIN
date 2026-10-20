@@ -1,9 +1,4 @@
 
-
-https://github.com/user-attachments/assets/e8c3029e-f9c2-4e2c-a5b3-af1d3f93b984
-
-
-
 # 🎮 Secure Gaming Login Portal
 
 > An advanced, secure, and modern gaming login and authentication page built with **Next.js**, designed specifically for gamers and gaming communities.
@@ -101,4 +96,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Distributed under the MIT License. Free for personal and commercial use.
 
-
+<img width="1497" height="938" alt="Access grant" src="https://github.com/user-attachments/assets/9ea4db32-a3d7-4db4-b0f4-2006036cf94c" />
+<img width="1476" height="939" alt="Create profile" src="https://github.com/user-attachments/assets/b6cb42bd-ded4-4927-b3c5-e2a3e7e6dafc" />
+<img width="1481" height="940" alt="Sign in page" src="https://github.com/user-attachments/assets/06ccad86-2f70-4339-b18b-7455a5989da7" />
