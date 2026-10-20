@@ -13,10 +13,12 @@
 
 * 🔐 **High Security:** Built with modern security best practices to protect user credentials.
 * 🎮 **Multiple Gaming Auth Options:** Seamlessly log in using popular gaming platforms:
+  
   * 🟢 **Google Login**
   * 🔵 **Steam Authentication**
   * 🟣 **Discord OAuth**
   * ✉️ **Email & Password**
+    
 * ⚡ **Lightning Fast:** Powered by Next.js App Router for high performance and smooth UI transitions.
 * 🎨 **Gaming Aesthetics:** Sleek, dark-themed interface crafted specifically for gaming projects.
 * 🆓 **Open Source:** Free to use, modify, and integrate into your own custom projects!
@@ -75,25 +77,19 @@ Open http://localhost:3000 in your browser to view the login portal.
 
 ## 🛠️ Built With
 
--Next.js - React Framework for Production
-
--React - UI Library
-
--Tailwind CSS - Styling & Responsive Layouts
+*Next.js - React Framework for Production
+*React - UI Library
+*Tailwind CSS - Styling & Responsive Layouts
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
--Fork the Project
-
--Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
--Commit your Changes (git commit -m 'Add some AmazingFeature')
-
--Push to the Branch (git push origin feature/AmazingFeature)
-
--Open a Pull Request
+*Fork the Project
+*Create your Feature Branch (git checkout -b feature/AmazingFeature)
+*Commit your Changes (git commit -m 'Add some AmazingFeature')
+*Push to the Branch (git push origin feature/AmazingFeature)
+*Open a Pull Request
 
 ## 📄 License
 
