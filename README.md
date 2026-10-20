@@ -21,10 +21,6 @@
 
 </div>
 
-### 🔑 Authentication Options Overview
-* **Google & Email Login:** Secure standard & Google OAuth login flow.
-* **Steam & Discord Integration:** Direct gaming community login options for gamers.
-
 ---
 
 ## ✨ Features
