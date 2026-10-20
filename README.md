@@ -19,6 +19,7 @@
 > Sleek, dark-themed security login interface featuring multi-platform authentication.
 
 <img src="YOUR_SCREENSHOT_LINK_HERE.png" alt="Gaming Login Portal Preview" width="800px" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
+<img width="1376" height="768" alt="kx-login portal by knox" src="https://github.com/user-attachments/assets/027d1c2b-194a-443b-bda5-eff61729feff" />
 
 </div>
 
