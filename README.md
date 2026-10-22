@@ -16,7 +16,7 @@
 
 ### 🌟 KNOX Gaming Login Portal
 
-<img width="1376" height="768" alt="kx-login portal by knox" src="[https://github.com/user-attachments/assets/027d1c2b-194a-443b-bda5-eff61729feff](https://github.com/user-attachments/assets/b0b19b46-9cf3-46d1-a76e-fccb084e77ee)" />
+<img width="1376" height="768" alt="kx-login portal by knox" src="https://github.com/user-attachments/assets/b0b19b46-9cf3-46d1-a76e-fccb084e77ee" />
 
 </div>
 
